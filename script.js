@@ -1,0 +1,1 @@
+console.log("este projeto já tem repositorio local")
